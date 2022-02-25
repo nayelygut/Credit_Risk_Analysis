@@ -20,7 +20,9 @@ In this analysis, I used machine learning to look at credit card risk. The credi
         avg / total     0.99      0.59      0.72      0.73      0.65      0.42     17205
 
     SMOTE algorithm
+
         Balanced Accuracy Score: 0.66201409663885
+
         Classification Report Imbalanced:
                         pre       rec       spe        f1       geo       iba       sup
 
@@ -33,7 +35,7 @@ In this analysis, I used machine learning to look at credit card risk. The credi
     ClusterCentroids to resample data
 
         Balanced Accuracy Score: 0.5447339051023905
-        
+
         Classification Report Imbalanced:
                         pre       rec       spe        f1       geo       iba       sup
         high_risk       0.01      0.69      0.40      0.01      0.52      0.28       101
@@ -43,7 +45,9 @@ In this analysis, I used machine learning to look at credit card risk. The credi
 -  Combination algorithms
 
     SMOTEENN Algorithm
+
         Balanced Accuracy Score: 0.5447339051023905
+
         Classification Report Imbalanced:
                         pre       rec       spe        f1       geo       iba       sup
 
@@ -54,7 +58,9 @@ In this analysis, I used machine learning to look at credit card risk. The credi
 -  Ensemble learners
 
     Balanced Random Forest Classifier
+
         Balanced Accuracy Score: 0.7887512850910909
+
         Classification Report Imbalanced:
                         pre       rec       spe        f1       geo       iba       sup
 
@@ -63,7 +69,9 @@ In this analysis, I used machine learning to look at credit card risk. The credi
         avg / total     0.99      0.87      0.70      0.93      0.78      0.63     17205
     
     Easy Ensemble AdaBoost Classifier
+
         Balanced Accuracy Score: 0.931601605553446
+        
         Classification Report Imbalanced:
                         pre       rec       spe        f1       geo       iba       sup
 
