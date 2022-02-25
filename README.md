@@ -1,13 +1,14 @@
-# Credit_Risk_Analysis
+# Credit Risk Analysis
 
 ## Overview of the analysis: 
+
 In this analysis, I used machine learning to look at credit card risk. The credit card dataset comes from LendingClub, a peer-to-peer lending services company. Six different algorithms were used analyzed to decide which one would perform best at predicting credit card risk. 
 
-## Results: describe the balanced accuracy scores and the precision and recall scores of all six machine learning models. Use screenshots of your outputs to support your results.
+## Results: 
 
 -  Oversampling algorithms
 
-    - Naive random oversampling algorithm 
+    Naive random oversampling algorithm 
         Balanced Accuracy Score: 0.6547385707934685
         Classification Report Imbalanced:
                         pre       rec       spe        f1       geo       iba       sup
