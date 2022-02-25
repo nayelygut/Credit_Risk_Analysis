@@ -9,7 +9,9 @@ In this analysis, I used machine learning to look at credit card risk. The credi
 -  Oversampling algorithms
 
     Naive random oversampling algorithm 
+
         Balanced Accuracy Score: 0.6547385707934685
+
         Classification Report Imbalanced:
                         pre       rec       spe        f1       geo       iba       sup
 
@@ -29,7 +31,9 @@ In this analysis, I used machine learning to look at credit card risk. The credi
 -  Undersampling algorithms
 
     ClusterCentroids to resample data
+
         Balanced Accuracy Score: 0.5447339051023905
+        
         Classification Report Imbalanced:
                         pre       rec       spe        f1       geo       iba       sup
         high_risk       0.01      0.69      0.40      0.01      0.52      0.28       101
